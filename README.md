@@ -4,7 +4,7 @@
 
 I am a fourth year student of Systems Engineering. Higher fifth. High knowledge in object-oriented programming, web programming, database, project management. Advanced English
 
-Skills: JAVA/ JS / HTML / CSS/C#
+Skills: C# / JAVA / HTML / CSS / JAVASCRIPT / PHP
 
 - 🔭 I’m currently working on programming projects. 
 - 🌱 I’m currently learning Git 
