@@ -2,7 +2,7 @@
 #### Systems Engineer
 ![Systems Engineer](https://www.it-ology.org/wp-content/uploads/2017/04/bigstock-Machine-code-languages-on-colo-118137224-e1491576297213.jpg)
 
-I am a fourth year student of Systems Engineering. Higher fifth. High knowledge in object-oriented programming, web programming, database, project management. Advanced English
+I am a fourth year student of Systems Engineering. High knowledge in object-oriented programming, web programming, database, project management. Advanced English
 
 Skills: C# / JAVA / HTML / CSS / JAVASCRIPT / PHP / PYTHON / C++
 
