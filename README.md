@@ -1,6 +1,6 @@
 
 
-<h1 align="center">Hi 👋, I'm Rocio </h1>
+<h1 align="center">Hi 👋, I'm Rocío Andrea</h1>
 <h3 align="center">I am a fourth year student of Systems Engineering. High knowledge in object-oriented programming, web programming, database, project management. Advanced English</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rocio2504&label=Profile%20views&color=0e75b6&style=flat" alt="rocio2504" /> </p>
