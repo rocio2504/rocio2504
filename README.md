@@ -10,7 +10,7 @@
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 💬 Ask me about **C#, PHP, PYTHON, JAVA, JS, web programming.**
-- 🔭 I’m currently working on programming projects. 
+- 🔭 I’m currently working on web development projects. 
 <!--- (- 🌱 I’m currently learning Git ) -->
 
 ![Systems Engineer](https://www.it-ology.org/wp-content/uploads/2017/04/bigstock-Machine-code-languages-on-colo-118137224-e1491576297213.jpg)
