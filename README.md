@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **C#, web programming.**
 - 🔭 I’m currently working on programming projects. 
-- 🌱 I’m currently learning Git 
+[comment]: <> (- 🌱 I’m currently learning Git )
 
 ![Systems Engineer](https://www.it-ology.org/wp-content/uploads/2017/04/bigstock-Machine-code-languages-on-colo-118137224-e1491576297213.jpg)
 
