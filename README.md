@@ -1,6 +1,6 @@
 
 
-<h1 align="center">Hi 👋, I'm Rocío Andrea</h1>
+<h1 align="center">Hi 👋, I am Rocío Andrea</h1>
 <h3 align="center">I am a junior software developer, graduate of the profesional career of systems engineering. I have experience in website development both frontend and backend,. High knowledge in object-oriented programming, web programming, database, system analysis and project management.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rocio2504&label=Profile%20views&color=0e75b6&style=flat" alt="rocio2504" /> </p>
